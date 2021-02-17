@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My AppDilog</string>
+    <string name="change_password">Change password</string>
+    <string name="enter_phone">Enter your Phone number to get new password</string>
+    <string name="forget_password">Forget password</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="send">Send</string>
+</resources>
